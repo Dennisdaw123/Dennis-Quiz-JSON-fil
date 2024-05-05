@@ -1,0 +1,20 @@
+{
+    "spørsmålene": [
+      {
+        "nr": 1,
+        "spørsmål": "Hva betyr 'FPS' i videoopptak?",
+        "svar": "Frames per second"
+      },
+      {
+        "nr": 2,
+        "spørsmål": "Hvilken kodek er mest kjent for å komprimere video uten synlig kvalitetstap?",
+        "svar": "H.264"
+      },
+      {
+        "nr": 3,
+        "spørsmål": "Hva brukes ofte til å fange lyd digitalt i et studio?",
+        "svar": "Kondensatormikrofon"
+      }
+    ]
+  }
+  
